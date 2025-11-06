@@ -48,7 +48,7 @@ Distribui os elementos em "baldes" (buckets), ordena cada um e depois junta tudo
 ### Bubble Sort  
 Compara pares de elementos vizinhos e troca de posição até que tudo esteja ordenado.  
 **Vantagens:** Fácil de entender e implementar.  
-**Desvantagens:** Extremamente ineficiente (O(n²)), usado apenas para fins didáticos.  
+**Desvantagens:** Extremamente ineficiente (O(n²)), usado para fins didáticos.  
 
 ---
 
