@@ -53,7 +53,7 @@ Compara pares de elementos vizinhos e troca de posição até que tudo esteja or
 ---
 
 ### Autores  
-**Ana Beatriz Abrantes da Silva; Beatriz Barbosa M. L. da Silva; Hudson N. P. Vieira; Rafael dos S. Paulo**  
+**Ana Beatriz Abrantes da Silva; Beatriz Barboza M. L. da Silva; Hudson N. P. Vieira; Rafael dos S. Paulo**  
 Estudantes de **Engenharia de Software**  
 Disciplina: **Algoritmos**  
 
